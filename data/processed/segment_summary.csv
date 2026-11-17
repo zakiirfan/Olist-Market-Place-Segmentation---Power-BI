@@ -1,0 +1,5 @@
+segment,customers,revenue_brl,avg_recency_days,avg_frequency,avg_spend_brl,customer_share,revenue_share
+New / Recent,50638,6804073,128.1,1.0,134.4,0.542,0.441
+At Risk / Lost,37523,5008663,387.4,1.0,133.5,0.402,0.325
+VIP / Big Spender,2416,2805796,239.5,1.0,1161.3,0.026,0.182
+Loyal (Repeat),2772,802978,220.4,2.1,289.7,0.03,0.052
